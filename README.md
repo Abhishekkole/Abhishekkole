@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishekkole
-- 👀 I’m interested in ...Devops 
-- 🌱 I’m currently learning ...AWS,Terraform,Puppet,Chef,Ansible.
-- 💞️ I’m looking to collaborate on ...Devops projects
+- 👀 I’m interested in ...Cloud and Devops 
+- 🌱 I’m currently working as Devops Engineer at Innominds,Hyd.
+- 💞️ I've good knowledge of Linux,GIT and Jenkins,intermediate knowledge about AWS,Ansible,Python and Bash,basic knowledge of Docker,Kubernetes and Terraform...
 - 📫 How to reach me ...abhishekkolekp@gmail.com
 
 <!---
